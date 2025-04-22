@@ -45,6 +45,8 @@ This project showcases the end-to-end process of extracting, cleaning, and visua
 - **Wind Speeds** peak early each year during the Northeast Monsoon.
 - **Thundery Showers** dominate forecasts, while rare weather events like haze are linked to regional environmental factors.
 
+For the full interpretation please refear to the Main.ipynb file
+
 ---
 
 ## How to Run
