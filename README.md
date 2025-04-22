@@ -31,13 +31,15 @@ This project showcases the end-to-end process of extracting, cleaning, and visua
 ## Key Visualizations
 1. **Monthly Average Humidity (2020–2024)**  
    📈 Displays high and low humidity trends, highlighting Singapore’s consistently humid tropical climate.
+   ![](Asset/Monthly%20Average%20Humidity%20in%20Singapore%20(2020–2024).png)
 
 2. **Monthly Average Wind Speed (2020–2024)**  
    📈 Shows seasonal wind speed variations linked to monsoon seasons.
+   ![](Asset/Monthly%20Average%20Wind%20Speeds%20in%20Singapore%20(2020–2024).png)
 
 3. **Dominant Weather Forecasts (2020–2024)**  
    📊 Highlights the most common weather types, emphasizing the dominance of thundery showers.
-
+   ![](Asset/Dominant%20Weather%20Forecasts%20in%20Singapore%20(2020–2023).png)
 ---
 
 ## Interpretation Highlights
@@ -45,7 +47,7 @@ This project showcases the end-to-end process of extracting, cleaning, and visua
 - **Wind Speeds** peak early each year during the Northeast Monsoon.
 - **Thundery Showers** dominate forecasts, while rare weather events like haze are linked to regional environmental factors.
 
-For the full interpretation please refear to the Main.ipynb file
+For the full interpretation please refear to the [Main.ipynb](Main.ipynb) file
 
 ---
 
